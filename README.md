@@ -1,5 +1,6 @@
 # repository
-WRITING: BUGEON 
+WRITING: BUGEON
+
 WRITING: 홍은기  
 WRITING: LSM
 하이
