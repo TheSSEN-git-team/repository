@@ -1,3 +1,3 @@
 # repository
-WRITING: HEK  
+WRITING: 홍은기  
 충돌 연습
