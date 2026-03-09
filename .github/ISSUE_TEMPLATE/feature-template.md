@@ -1,15 +1,16 @@
 ---
-name: Feature Template
-about: 기능 추가 이슈 템플릿
-title: "[FEAT]"
-labels: "✨ Feature"
+name: "✨ Feature Request"
+about: "새로운 기능 구현을 위한 이슈"
+title: "[FEAT] "
+labels: "feature"
 assignees: ''
 
 ---
 
-## 💡 Feature Issue
-<!-- 관련 이슈에 대해 설명해주세요. -->
+## 📝 기능 설명
+## 🛠 작업 내용
+- [ ] 
+- [ ] 
 
-## 🌿  To-do
-<!-- 해야 할 일들을 적어주세요. -->
-- [ ] todo
+
+## 🔗 참고 사항
