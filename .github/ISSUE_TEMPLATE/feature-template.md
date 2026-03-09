@@ -1,16 +1,13 @@
 ---
-name: "✨ Feature Request"
-about: "새로운 기능 구현을 위한 이슈"
+name: "✨ Feature"
+about: "새로운 기능 구현"
 title: "[FEAT] "
 labels: "feature"
-assignees: ''
-
 ---
 
-## 📝 기능 설명
-## 🛠 작업 내용
+### 📝 개요
+### 🛠 작업 리스트
 - [ ] 
 - [ ] 
 
-
-## 🔗 참고 사항
+### 📎 기타
